@@ -1,4 +1,5 @@
 MailManage read an email, execute command which are in it and send result back.
+If you use gmail account you will check that your account let less secure apps use https://support.google.com/accounts/answer/6010255?hl=en
 
 Exmaple email:
 
